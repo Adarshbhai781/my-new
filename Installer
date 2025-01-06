@@ -1,1 +1,7 @@
-
+pyrogram==1.4.16
+python-dotenv
+requests
+heroku3
+gitpython
+tgcrypto
+aiohttp
